@@ -8,6 +8,9 @@ public class SpringbootGitDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootGitDemoApplication.class, args);
+		
+		int i=10;
+		int x=20;
 	}
 
 }
